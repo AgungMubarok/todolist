@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ToDo from './ToDo';
+import ToDo from './ToDo.js';
 import './styles.css';
 
 function App() {
